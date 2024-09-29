@@ -4,16 +4,13 @@
 
 ![](./idea.png);
 
-#### React Icons
+#### Live Demo
 
-[react icons](https://react-icons.github.io/react-icons/)
+[Live Demo](https://questions-buttons.netlify.app/)
 
-React app using 
+this app build with React to train on
 ```
 useState()
 ```
 
-```Demo
-https://questions-buttons.netlify.app/
-```
 
