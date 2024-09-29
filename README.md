@@ -8,13 +8,12 @@
 
 [react icons](https://react-icons.github.io/react-icons/)
 
+React app using 
 ```
-npm install react-icons --save
+useState()
 ```
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
+```Demo
+https://questions-buttons.netlify.app/
 ```
+
